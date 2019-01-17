@@ -1,1 +1,1 @@
-{"main":"devrel-quick_start_products_api.raml","name":"product-all-hands","classifier":"raml","tags":[],"dependencies":[],"groupId":"00590acb-8929-43a7-806a-167018392a55","backwardsCompatible":false,"assetId":"product-all-hands","version":"1.0.0","apiVersion":"v1.0"}
+{"main":"devrel-quick_start_products_api.raml","name":"product-all-hands","classifier":"raml","tags":[],"dependencies":[],"groupId":"00590acb-8929-43a7-806a-167018392a55","backwardsCompatible":true,"assetId":"product-all-hands","version":"1.0.0","apiVersion":"v1.0"}
